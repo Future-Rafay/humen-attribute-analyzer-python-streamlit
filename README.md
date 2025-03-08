@@ -1,4 +1,4 @@
-# Human Attribute Analyzer
+# 👤 Human Attribute Analyzer
 
 An AI-powered application that analyzes human attributes from images using **Google Gemini AI**. The app provides details such as age estimation, gender, mood, facial expressions, and more.
 
